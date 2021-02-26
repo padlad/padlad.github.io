@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+title: PadLad : Participatory Design Of Learning Analytics Dashboards
+baseurl: "https://padlad.github.io/"
+url: "https://padlad.github.io/"
+
+include: ['_pages']

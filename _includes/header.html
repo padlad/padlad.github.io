@@ -1,0 +1,20 @@
+<aside>
+	<div class="container">
+		<nav>
+			<ul>
+				{% for page in site.pages %} {% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% endif %} {% endfor %}
+		<!--		<li><a href="{{ "/news" | prepend: site.baseurl }}">Actualité</a></li>-->
+			</ul>
+			</li>
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+	<h1>{{ site.title }}</h1>
+	<h3>{{ site.subtitle }}</h3>
+</header>
+ 
