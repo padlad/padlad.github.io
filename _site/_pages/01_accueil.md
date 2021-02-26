@@ -1,0 +1,14 @@
+## Welcome to PadLAD website
+
+This site is dedicated to design tools to support  Learning Analytics Dashboards.
+
+We aim Participatory Design at all levels:
+* We organize Participatory Workshops to improve tools
+* We collect and share feedbacks of experiments with various stalkeholders (teachers, students, administrative, academics)
+* We share our productions on GitHub and are happy to get some feedbacks and improvments.
+* We disseminate our results thanks sicentific publications and various medias.
+
+Some work is in french, as it is easier to relate with french teachers and students. Some more international content will be progressively added.
+
+### News
+[Next scientific workshop will be online in june 2021](https://padlad.github.io/EIAH2021/)
