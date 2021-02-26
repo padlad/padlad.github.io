@@ -1,3 +1,10 @@
+---
+layout: page
+title: Welcome
+permalink: /
+---
+
+
 ## Welcome to PadLAD website
 
 This site is dedicated to design tools to support  Learning Analytics Dashboards.

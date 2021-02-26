@@ -1,3 +1,8 @@
+---
+layout: page
+title: Workshops
+permalink: /workshops
+---
 ## Workshops
 
 We organize scientific workshops and experimental workshops.

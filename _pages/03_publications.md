@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+permalink: /publications
+---
 ## Related publications
 
 ### Scientific Publications

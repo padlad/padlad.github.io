@@ -1,3 +1,8 @@
+---
+layout: page
+title: Productions
+permalink: /productions
+---
 ## PadLAD productions
 
 1. Initial tool was developed during [HUBBLE project](http://hubblelearn.imag.fr/?lang=fr) and is [available online](http://perso.univ-lemans.fr/~siksal/HUBBLE/L5.5-KitConceptionTB.zip).  

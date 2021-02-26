@@ -4,4 +4,7 @@ title: PadLad - Participatory Design Of Learning Analytics Dashboards
 # baseurl: "https://padlad.github.io/"
 # url: "https://padlad.github.io/"
 
+# build settings
+sass:
+  sass_dir: _sass
 include: ['_pages']
