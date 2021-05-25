@@ -16,11 +16,10 @@ PADDLE stands for PArticipative Design of Dashboard for Learning in Education. I
 
 ### ePADDLE
 ePaddle is a web-based version of the Paddle tool. 
-To discover and test the tool, you can visit the website dedicated to the project at the following address:
-
+To discover and test the tool, you can visit the website dedicated to the project at the following address (in french):
 [https://padlad.github.io/epaddle](https://padlad.github.io/epaddle)
 
-The following resoucres are intended for guiding the use of the tool
+The following resources are intended for guiding the use of the tool
 - Slideshow for classroom use in HTML - [download the compressed file](/assets/PADDLE_Numerique/Intro_diaporama_enSalle_gen_pres.zip)
 - Slideshow for online use in HTML - [download the compressed file](/assets/PADDLE_Numerique/Intro_diaporama_enLigne_gen_pres.zip)
 - Facilitator's guide in pdf - [download the file](/assets/PADDLE_Numerique/ePaddle_GuideAnimateur_Num.pdf).
