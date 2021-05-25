@@ -20,10 +20,10 @@ To discover and test the tool, you can visit the website dedicated to the projec
 [https://padlad.github.io/epaddle](https://padlad.github.io/epaddle)
 
 The following resources are intended for guiding the use of the tool
-- Slideshow for classroom use in HTML - [download the compressed file](/assets/PADDLE_Numerique/Intro_diaporama_enSalle_gen_pres.zip)
-- Slideshow for online use in HTML - [download the compressed file](/assets/PADDLE_Numerique/Intro_diaporama_enLigne_gen_pres.zip)
-- Facilitator's guide in pdf - [download the file](/assets/PADDLE_Numerique/ePaddle_GuideAnimateur_Num.pdf).
-- ePADDLE, stand-alone standard version:  website in HTML ([download the compressed file](/assets/PADDLE_Numerique/ePADDLE_gen_mirageW.zip)), and  the Moodle plugin - [download the file](/assets/PADDLE_Numerique/ePADDLE_ExportMoodle_gen_mirageSMoodle.zip).
-- ePADDLE, stand-alone short version: website in HTML [download the compressed file](/assets/PADDLE_Numerique/ePADDLE_court_gen_mirageW.zip), and Moodle plugin ([download the file](/assets/PADDLE_Numerique/ePADDLE_court_ExportMoodle_gen_mirageSMoodle.zip)).
-- Scenari Opale sources - [download the file](/assets/PADDLE_Numerique/ePADDLE_Numerique_Opale.scar).
-- Scenari Topaze sources - [download the file](/assets/PADDLE_Numerique/ePADDLE_Topaze_2021-4-9.scar).
+- Slideshow for classroom use in HTML - [download the compressed file](/assets/ePADDLE_Numerique/Intro_diaporama_enSalle_gen_pres.zip)
+- Slideshow for online use in HTML - [download the compressed file](/assets/ePADDLE_Numerique/Intro_diaporama_enLigne_gen_pres.zip)
+- Facilitator's guide in pdf - [download the file](/assets/ePADDLE_Numerique/ePaddle_GuideAnimateur_Num.pdf).
+- ePADDLE, stand-alone standard version:  website in HTML ([download the compressed file](/assets/ePADDLE_Numerique/ePADDLE_gen_mirageW.zip)), and  the Moodle plugin - [download the file](/assets/ePADDLE_Numerique/ePADDLE_ExportMoodle_gen_mirageSMoodle.zip).
+- ePADDLE, stand-alone short version: website in HTML [download the compressed file](/assets/ePADDLE_Numerique/ePADDLE_court_gen_mirageW.zip), and Moodle plugin ([download the file](/assets/ePADDLE_Numerique/ePADDLE_court_ExportMoodle_gen_mirageSMoodle.zip)).
+- Scenari Opale sources - [download the file](/assets/ePADDLE_Numerique/ePADDLE_Numerique_Opale.scar).
+- Scenari Topaze sources - [download the file](/assets/ePADDLE_Numerique/ePADDLE_Topaze_2021-4-9.scar).
