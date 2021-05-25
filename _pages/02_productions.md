@@ -20,6 +20,6 @@ ePaddle is a web-based version of the Paddle tool. The following resoucres are i
 - Slideshow for online use in HTML - [download the compressed file](/assets/PADDLE_Numerique/Intro_diaporama_enLigne_gen_pres.zip)
 - Facilitator's guide in pdf - [download the file](/assets/PADDLE_Numerique/ePaddle_GuideAnimateur_Num.pdf).
 - ePADDLE, stand-alone standard version:  website in HTML ([download the compressed file](/assets/PADDLE_Numerique/ePADDLE_gen_mirageW.zip)), and  the Moodle plugin - [download the file](/assets/PADDLE_Numerique/ePADDLE_ExportMoodle_gen_mirageSMoodle.zip).
-- ePADDLE, stand-alone short version: website in HTML [download the compressed file](/assets/PADDLE_Numerique/ePADDLE_court_gen_mirageW.zip), and Moodle plugin ([download the file](/assets/PADDLE_Numerique/ePaddle_GuideAnimateur_Num.pdf)).
+- ePADDLE, stand-alone short version: website in HTML [download the compressed file](/assets/PADDLE_Numerique/ePADDLE_court_gen_mirageW.zip), and Moodle plugin ([download the file](/assets/PADDLE_Numerique/ePADDLE_court_ExportMoodle_gen_mirageSMoodle.zip)).
 - Scenari Opale sources - [download the file](/assets/PADDLE_Numerique/ePADDLE_Numerique_Opale.scar).
 - Scenari Topaze sources - [download the file](/assets/PADDLE_Numerique/ePADDLE_Topaze_2021-4-9.scar).
