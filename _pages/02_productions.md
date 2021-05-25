@@ -15,3 +15,10 @@ PADDLE stands for PArticipative Design of Dashboard for Learning in Education. I
 - The Scenari Opale sources for editing the content of the PADDLE kit - [download the scar file](/assets/PADDLE_Print/PADDLE_Print_SourcesOpale.scar)
 
 ### ePADDLE
+ePaddle is a web-based version of the Paddle tool. The following resoucres are intended for guiding the use of the tool
+- slideshow for classroom use - html version and Scenari Opale sources
+- slideshow for online use - html version and Scenari Opale sources
+- facilitator's guide - pdf version and Scenari Opale sources
+- ePADDLE - stand-alone website version, version for Moodle and Scenari Topaze sources
+- ePADDLE short version - stand-alone website version, version for Moodle and Scenari Topaze sources
+
