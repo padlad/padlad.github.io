@@ -4,6 +4,8 @@ title: Productions
 permalink: /productions
 ---
 ## PadLAD productions
+#### PadLAD V2 
+This second version of the kit include new features : Persona, support for SenseMaking, more modularity... It can be [downloaded here](/assets/PADLADv2.zip.zip) Source files will be soon added on the site 
 ### Kit for participatory design of LA dashboards
 The initial tool was developed during [HUBBLE project](http://hubblelearn.imag.fr/?lang=fr)It can be [downloaded here](/assets/KitConceptionTB.zip).  
 ### PADDLE
