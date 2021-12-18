@@ -3,10 +3,10 @@ layout: page
 title: Productions
 permalink: /productions
 ---
-## PadLAD productions
+## PaDLAD productions
 This page presents in an ante-chronological sequence the main tools we have developed for building a participatory toolkit for designing learning dashboards..
 
-#### PadLAD V2
+### PaDLAD V2
 This second version of the kit include new features : Persona, support for SenseMaking, more modularity... 
 The material and a thorough description is a french [here](../Participatory-Design-ToolkitV2/) and in english [here](../Participatory-Design-ToolkitV2/en/). 
 
