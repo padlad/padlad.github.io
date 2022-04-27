@@ -7,7 +7,8 @@ permalink: /workshops
 
 We organize scientific workshops and experimental workshops.
 
-[Next workshop will be online in may 2022](https://padlad.github.io/RJC-EIAH2022/)
+
+[Next scientific workshop will be in May 2022, during the RJC EIAH 2022 days](https://padlad.github.io/RJC-EIAH2022/)
 
 ### Scientific workshops
 1. 2021/06/07-08 [Atelier EIAH 2021 - Conception participative de tableaux de bord d’apprentissage](https://padlad.github.io/EIAH2021/)
