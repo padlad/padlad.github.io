@@ -17,4 +17,4 @@ We aim Participatory Design at all levels:
 Some work is in french, as it is easier to relate with french teachers and students. Some more international content will be progressively added.
 
 ### News
-[Next scientific workshop will be online in june 2021](https://padlad.github.io/EIAH2021/)
+[Next scientific workshop will be in May 2022, during the RJC EIAH 2022 days](https://padlad.github.io/RJC-EIAH2022/)
