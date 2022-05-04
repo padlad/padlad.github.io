@@ -11,7 +11,7 @@ This second version of the kit include new features : Persona, support for Sense
 The material and a thorough description is a french [here](../Participatory-Design-ToolkitV2/) and in english [here](../Participatory-Design-ToolkitV2/en/). 
 
 The toolkit can also be 
-[downloaded here](/assets/PADLADv2.zip)
+[downloaded here](/assets/PADLAD_KIT_en.pdf)
 
 ### ePADDLE
 ePaddle is a web-based version of the Paddle tool. 
