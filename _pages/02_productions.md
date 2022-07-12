@@ -5,6 +5,8 @@ permalink: /productions
 ---
 ## PaDLAD productions
 This page presents in an ante-chronological sequence the main tools we have developed for building a participatory toolkit for designing learning dashboards..
+### LADStudio
+LADStudio is a LAD design and generation tool that allows LAD designers, and more broadly all stakeholders to build and implement potentially complex dashboards by providing only the highest level of information. 
 
 ### PaDLAD V2
 This second version of the kit include new features : Persona, support for SenseMaking, more modularity... 
