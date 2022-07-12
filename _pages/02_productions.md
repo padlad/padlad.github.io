@@ -9,8 +9,8 @@ This page presents in an ante-chronological sequence the main tools we have deve
 LADStudio is a LAD design and generation tool that allows LAD designers, and more broadly all stakeholders to build and implement potentially complex dashboards by providing only the highest level of information. 
 
 ### PaDLAD V2
-This second version of the kit include new features : Persona, support for SenseMaking, more modularity... 
-The material and a thorough description is a french [here](../Participatory-Design-ToolkitV2/) and in english [here](../Participatory-Design-ToolkitV2/en/). 
+This second version of the kit include new features: Persona, support for SenseMaking, more modularity... 
+The material and a thorough description are in french [here](../Participatory-Design-ToolkitV2/) and english [here](../Participatory-Design-ToolkitV2/en/). 
 
 The french version of the toolkit can also be downloaded [here](/assets/PADLAD_KIT_fr.pdf).
 
