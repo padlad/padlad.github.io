@@ -12,9 +12,9 @@ LADStudio is a LAD design and generation tool that allows LAD designers, and mor
 This second version of the kit include new features: Persona, support for SenseMaking, more modularity... 
 The material and a thorough description are in french [here](../Participatory-Design-ToolkitV2/) and english [here](../Participatory-Design-ToolkitV2/en/). 
 
-The french version of the toolkit can also be downloaded [here](/assets/PADLAD_KIT_fr.pdf).
+The french version of the toolkit can also be downloaded [here](/assets/PadLADV2/PADLADV2_KIT_fr.pdf).
 
-The english version of the toolkit can also be downloaded [here](/assets/PADLAD_KIT_en.pdf)
+The english version of the toolkit can also be downloaded [here](/assets/PadLADV2/PADLADV2_KIT_en.pdf)
 
 ### ePADDLE
 ePaddle is a web-based version of the Paddle tool. 
