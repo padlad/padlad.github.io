@@ -6,8 +6,9 @@ permalink: /publications
 ## Related publications
 
 ### Scientific Publications
-1. Gilliot, J. M., Iksal, S., Medou, D., & Dabbebi, I. (2018, October). Conception participative de tableaux de bord d'apprentissage. In IHM'18: 30e Conférence Francophone sur l'Interaction Homme-Machine (pp. pp-119).
-2. Oliver-Quelennec, K. (2020, June). Vers une conception participative de tableaux de bord étudiants adaptatifs avec PADDLE. In 8e Rencontres Jeunes Chercheurs en EIAH.
+1.  Sadallah, M., Gilliot, J. M., Iksal, S., Quellenec, K., Vermeulen, M., Neyssensas, L., Aubert, O., Venant, R. (2022, September) Designing LADs that promote sensemaking: a participatory tool.  In *European Conference on Technology Enhanced Learning*, Springer, Cham.
+2.  Gilliot, J. M., Iksal, S., Medou, D., & Dabbebi, I. (2018, October). Conception participative de tableaux de bord d'apprentissage. In IHM'18: 30e Conférence Francophone sur l'Interaction Homme-Machine (pp. pp-119).
+3. Oliver-Quelennec, K. (2020, June). Vers une conception participative de tableaux de bord étudiants adaptatifs avec PADDLE. In 8e Rencontres Jeunes Chercheurs en EIAH.
 
 ### Workshop supports
 1. 2019/04/01 - Nantes [Atelier Learning Analytics](https://www.olivieraubert.net/cours/atelier_learning_analytics/)

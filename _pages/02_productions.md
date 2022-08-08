@@ -30,7 +30,7 @@ The following resources are intended for guiding the use of the tool
 - Scenari Opale sources - [download the file](/assets/ePADDLE_Numerique/ePADDLE_Numerique_Opale.scar).
 - Scenari Topaze sources - [download the file](/assets/ePADDLE_Numerique/ePADDLE_Topaze_2021-4-9.scar).
   
-  ### PADDLE
+### PADDLE
 PADDLE stands for PArticipative Design of Dashboard for Learning in Education. Is a tool derived from the initial method. The following resoucres are intended for guiding the use of the tool
 - Printable cards  - [download the pdf version](/assets/PADDLE_Print/Paddle_AllCards_Janvier2020.pdf)
 - Slideshow used for a PADDLE session  in HTML  - [download the compressed version](/assets/PADDLE_Print/Paddle_diaporama_gen_pres.zip)
