@@ -8,7 +8,7 @@ PaDLAD and PADDLE are tools to support particpatory workshops. You will find her
 
 ### PaDLAD guides (current version)
 A facilitator's guide under construction
-* [Facilitator's guide](_docs/facilatorsGuide)
-* [Description of the methodological framework for the facilitator and the participants](_docs/methodologicalFramework)
+* [Facilitator's guide](/docs/facilatorsGuide.html)
+* [Methodological framework for the facilitator and the participants](/docs/methodologicalFramework.htms)
 
 % ### PADDLE guides (first version)
