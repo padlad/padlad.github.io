@@ -1,9 +1,9 @@
 ---
-layout: post 
+layout: default
 title:
 permalink:
 ---
-# Methodological framework
+## Methodological framework
 
 ## Why a workshop?
 The purpose of a participatory workshop to design a Learning Analytics Dashboard (LAD) workshop is threefold:
