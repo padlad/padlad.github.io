@@ -1,3 +1,8 @@
+---
+layout: page
+title:
+permalink: /docs/methodologicalFramework
+---
 # Methodological framework
 
 ## Why a workshop?

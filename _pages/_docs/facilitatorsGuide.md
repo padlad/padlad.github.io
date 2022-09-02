@@ -1,3 +1,8 @@
+---
+layout: page
+title:
+permalink: /docs/facilitatorGuide
+---
 # Facilitator's Guide
 
 ## Introduction
