@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-permalink:
+permalink: /docs/methodologicalFramework.html
 ---
 ## Methodological framework
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title:
-permalink:
+permalink: /docs/facilitatorsGuide.html
 ---
-## Facilitator's Guide
+# Facilitator's Guide
 
 ## Introduction
 This guide is intended to provide a facilitator with the elements needed to conduct a participatory Learning Analytics Dashboard (LAD) design session.
