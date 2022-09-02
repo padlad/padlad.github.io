@@ -11,10 +11,10 @@ This guide is intended to provide a facilitator with the elements needed to cond
 ## Methodological Framework
 
 The objectives of these sessions are multiple. Depending on the audience, one or the other objective can become the main one, or on the contrary, serve as a pretext:
-* To assist in the design of learning dashboards
-* To assist actors in a creative process
-* Generate ideas, express needs
-* Explore the field of possibilities
+* To assist in the design of learning dashboards;
+* To assist actors in a creative process;
+* Generate ideas, express needs;
+* Explore the field of possibilities.
 
 Before the session, the facilitator is invited to take an interest in the description of the different elements of the method. The method is based on classic HMI support methods. It specializes them by proposing to explain specific elements of the learning dashboards, and to express a process of construction of understanding and choice (sensemaking).
 

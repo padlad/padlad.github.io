@@ -14,14 +14,14 @@ This second version of the kit, renamed PadLAD, includes new features: Persona, 
 The english version of the toolkit can also be downloaded [here](/assets/PadLAD/PADLAD_KIT_en.pdf)
 The french version of the toolkit can also be downloaded [here](/assets/PadLAD/PADLAD_KIT_fr.pdf).
 
-Guides are available in the [Docs](/docs/) section.
+Guides are available in the [Docs](/docs) section.
 
 ### ePADDLE
 ePaddle is a web-based version of the Paddle tool. (first tool's version)
 To discover and test the tool, you can visit the website dedicated to the project at the following address (in french):
 [https://padlad.github.io/epaddle](https://padlad.github.io/epaddle)
 
-Guides are available in the [Docs](/docs/) section.
+Guides are available in the [Docs](/docs) section.
 
 - ePADDLE, stand-alone standard version:  website in HTML ([download the compressed file](/assets/ePADDLE_Numerique/ePADDLE_gen_mirageW.zip)), and  the Moodle plugin - [download the file](/assets/ePADDLE_Numerique/ePADDLE_ExportMoodle_gen_mirageSMoodle.zip).
 - ePADDLE, stand-alone short version: website in HTML [download the compressed file](/assets/ePADDLE_Numerique/ePADDLE_court_gen_mirageW.zip), and Moodle plugin ([download the file](/assets/ePADDLE_Numerique/ePADDLE_court_ExportMoodle_gen_mirageSMoodle.zip)).
