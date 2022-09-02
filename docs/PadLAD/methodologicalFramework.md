@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:
 permalink:
 ---
@@ -64,7 +64,7 @@ proposed by [BI Course - Dashboard Design - Laurent Brisson](https://formations.
 See also https://dokumen.tips/education/learning-analytics-dashboards.html
 or
 Information Dashboard Design: The Effective Visual Communication of Data
-Stephen Few 
+Stephen Few
 
 ## Using the TBA
 
