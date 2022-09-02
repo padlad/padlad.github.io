@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About us 
-permalink: /wg
+title: About us
+permalink: /about
 ---
 ## The PaDLAD Working Group
 The PaDLAD WG aims at bringing together multi-disciplinary expertise and channeling efforts towards the development of methods and tools that support the design of learning analytics dashboards.
