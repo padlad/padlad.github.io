@@ -11,7 +11,7 @@ PaDLAD and PADDLE are tools to support particpatory workshops. You will find her
 * [Methodological framework for the facilitator and the participants](/docs/methodologicalFramework.html)
 
 ### ePADDLE (in french)
-* [Facilitator's guide (in french)](assets/ePADDLE/ePADDLE_GuideAnimateur_Num.pdf)
+* [Facilitator's guide (in french)](assets/ePADDLE/ePaddle_GuideAnimateur_Num.pdf)
 
 * Slideshow for classroom use in HTML - [download the compressed file](/assets/ePADDLE_Numerique/Intro_diaporama_enSalle_gen_pres.zip)
 * Slideshow for online use in HTML - [download the compressed file](/assets/ePADDLE_Numerique/Intro_diaporama_enLigne_gen_pres.zip)
