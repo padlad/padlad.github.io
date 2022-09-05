@@ -11,4 +11,6 @@ This is the second version of the kit, renamed PadLAD, includes new features: Pe
 * The french version of the toolkit can be accessed [here](/assets/PadLAD/PADLAD_KIT_fr.pdf).
 
 Guides are available in the [Docs](/docs) section.
+
+
 Previous versions of the kits are available in the [Productions section](/productions/).
