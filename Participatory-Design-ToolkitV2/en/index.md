@@ -8,8 +8,8 @@ permalink: /Participatory-Design-ToolkitV2/en/
 This is the second version of the kit, renamed PadLAD, includes new features: Persona, support for SenseMaking, more modularity...
 
 
-* The english version of the toolkit can be accessed [here](/assets/PaDLAD/PaDLAD_KIT_en.pdf)
-* The french version of the toolkit can be accessed [here](/assets/PaDLAD/PaDLAD_KIT_fr.pdf).
+* The english version of the toolkit can be accessed [here](/assets/PaDLAD_KIT/PaDLAD_KIT_en.pdf)
+* The french version of the toolkit can be accessed [here](/assets/PaDLAD_KIT/PaDLAD_KIT_fr.pdf).
 
 Guides are available in the [Docs](/docs) section.
 
@@ -17,6 +17,6 @@ Guides are available in the [Docs](/docs) section.
 Previous versions of the kits are available in the [Productions section](/productions/).
 
 
-![Participatory Workshop using PadLAD](/assets/PaDLAD/figures/workshop/ws1.png)
+![Participatory Workshop using PadLAD](/assets/PaDLAD_KIT_en/figures/workshop/ws1.png)
 
-![Result of a participatory Workshop using PadLAD](/assets/PaDLAD/figures/workshop/ws2.png)
+![Result of a participatory Workshop using PadLAD](/assets/PaDLAD_KIT/figures/workshop/ws2.png)

@@ -11,8 +11,8 @@ LADStudio is a LAD design and generation tool that allows LAD designers, and mor
 ### PaDLAD (Particpatory Design for LADs)
 This second version of the kit, renamed PadLAD, includes new features: Persona, support for SenseMaking, more modularity...
 
-* The english version of the toolkit can be accessed [here](/assets/PaDLAD/PaDLAD_KIT_en.pdf)
-* The french version of the toolkit can be accessed [here](/assets/PaDLAD/PaDLAD_KIT_fr.pdf).
+* The english version of the toolkit can be accessed [here](/assets/PaDLAD_KIT/PaDLAD_KIT_en.pdf)
+* The french version of the toolkit can be accessed [here](/assets/PaDLAD_KIT/PaDLAD_KIT_fr.pdf).
 
 Guides are available in the [Docs](/docs) section.
 
