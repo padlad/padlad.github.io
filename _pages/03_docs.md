@@ -4,7 +4,7 @@ title: Docs
 permalink: /docs
 ---
 
-PaDLAD and PADDLE are tools to support particpatory workshops. You will find here some guides to organize and lead a workshop with potential users of LADs. (see [Productions](/productions/) to download your kit).
+PaDLAD and PADDLE are tools to support particpatory workshops. You will find here some guides to organize and lead a workshop with potential users of LADs. 
 
 ### PaDLAD guides (current version)
 * [Facilitator's guide](/docs/facilitatorsGuide.html)
