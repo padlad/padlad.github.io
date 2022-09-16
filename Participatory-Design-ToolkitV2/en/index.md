@@ -18,6 +18,6 @@ If you use this tool, don't hesitate [to contact us](mailto:padlad@imt-atlantiqu
 Previous versions of the kits are available in the [Productions section](/productions/).
 
 
-![Participatory Workshop using PadLAD](/assets/PaDLAD_KIT_en/figures/workshop/ws1.png)
+![Participatory Workshop using PadLAD](/assets/PaDLAD_KITfigures/workshop/ws1.png)
 
 ![Result of a participatory Workshop using PadLAD](/assets/PaDLAD_KIT/figures/workshop/ws2.png)
