@@ -6,8 +6,12 @@ permalink: /publications
 ## Related publications
 
 ### Scientific Publications
-1.  Sadallah, M., Gilliot, J. M., Iksal, S., Quellenec, K., Vermeulen, M., Neyssensas, L., Aubert, O., Venant, R. (2022, September) Designing LADs that promote sensemaking: a participatory tool.  In *European Conference on Technology Enhanced Learning*, Springer, Cham.
-2.  Gilliot, J. M., Iksal, S., Medou, D., & Dabbebi, I. (2018, October). Conception participative de tableaux de bord d'apprentissage. In IHM'18: 30e Conférence Francophone sur l'Interaction Homme-Machine (pp. pp-119).
+1. Gilliot, J.M., Sadallah M. (2023) Outiller la conception participative et générative de tableaux de bord d'apprentissage (2023, accepté)
+Madjid Sadallah and Jean-Marie Gilliot. In *11e Conférence sur les Environnements Informatiques pour l’Apprentissage Humain EIAH2023,  Brest (France)*
+2. Gilliot, J.M., Sadallah M. (2023, In Press) A framework for co-designing effective LADs supporting sensemaking and decision making. In *International Journal of Learning Technology* Inderscience.
+3. Sadallah, M., Gilliot, J. M. (2023) Generating LADs thatMake Sense. In *15th International Conference on Computer Supported Education CSEDU2023*, Apr 2023, Prague, Czech Republic. pp.35-46, ⟨10.5220/0011839800003470⟩ [link](https://www.scitepress.org/Link.aspx?doi=10.5220/0011839800003470)
+4.  Sadallah, M., Gilliot, J. M., Iksal, S., Quellenec, K., Vermeulen, M., Neyssensas, L., Aubert, O., Venant, R. (2022, September) Designing LADs that promote sensemaking: a participatory tool.  In *European Conference on Technology Enhanced Learning*, Springer, Cham.
+5.  Gilliot, J. M., Iksal, S., Medou, D., & Dabbebi, I. (2018, October). Conception participative de tableaux de bord d'apprentissage. In *IHM'18: 30e Conférence Francophone sur l'Interaction Homme-Machine* (pp. pp-119).
 
 ### Research using PADDLE
 1. A. Ouatiq, B. Riyami, K. Mansouri, M. Qbadou and E. -S. Aoula, "Towards the Co-Design of a Teachers' Dashboards in a Hybrid Learning Environment," 2022 2nd International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET), 2022, pp. 1-6, doi: 10.1109/IRASET52964.2022.9738149. [link](https://ieeexplore.ieee.org/document/9738149)
