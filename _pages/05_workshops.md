@@ -15,4 +15,4 @@ We organize scientific workshops and experimental workshops (in french).
 4. 2017/06/06 [Quels tableaux de bord pour les acteurs de l’éducation ?](https://tbeiah17.wordpress.com/)
 
 ### Users workshops
-1. 2021/10/20 [Rennes - séminaire de reconception de l'outil PadLAD](rennes) 
+1. 2021/10/20 [Rennes - séminaire de reconception de l'outil PadLAD](docs/rennes.html) 
