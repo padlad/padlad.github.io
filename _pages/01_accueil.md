@@ -17,5 +17,5 @@ We aim Participatory Design at all levels:
 Some work is in french, as it is easier to relate with french teachers and students. Some more international content will be progressively added.
 
 ### News
-[PadLAD V2 will be be presented as a poster at EC-TEL 2022 conference](https://ea-tel.eu/ectel2022/programme#1658480967712-d989f2ec-cd10)
+[PadLAD V2 was presented as a poster at EC-TEL 2022 conference](https://ea-tel.eu/ectel2022/programme#1658480967712-d989f2ec-cd10)
 
