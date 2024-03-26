@@ -17,5 +17,6 @@ We aim Participatory Design at all levels:
 Some work is in french, as it is easier to relate with french teachers and students. Some more international content will be progressively added.
 
 ### News
-[PadLAD V2 was presented as a poster at EC-TEL 2022 conference](https://ea-tel.eu/ectel2022/programme#1658480967712-d989f2ec-cd10)
+A french working Group on Learning Analytics Dashboards is being launched within [ATIEF](http://www.atief.fr/gtatief). If you are interested in, please contact PaDLAD coordinators. 
+
 
